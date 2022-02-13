@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/francoispqt/gojay"
+	"github.com/karfield/gojay"
 )
 
 type User struct {

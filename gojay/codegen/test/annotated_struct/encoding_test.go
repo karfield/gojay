@@ -6,7 +6,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/francoispqt/gojay"
+	"github.com/karfield/gojay"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

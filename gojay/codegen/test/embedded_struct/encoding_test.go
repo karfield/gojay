@@ -2,7 +2,7 @@ package embedded_struct
 
 import (
 	"bytes"
-	"github.com/francoispqt/gojay"
+	"github.com/karfield/gojay"
 	"github.com/stretchr/testify/assert"
 	"github.com/viant/assertly"
 	"testing"
