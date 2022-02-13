@@ -384,3 +384,7 @@ func (dec *Decoder) nextChar() byte {
 	}
 	return 0
 }
+
+func (dec *Decoder) Cursor() int {
+	return dec.cursor
+}
